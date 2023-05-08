@@ -4,7 +4,9 @@ from colorama import init
 
 init()
 from colorama import Fore, Back, Style
-
+"""
+Description
+"""
 
 class Plant:
     def __init__(self, grow=0, life=100, size=0, name=None):
